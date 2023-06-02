@@ -2445,6 +2445,16 @@ input, select, textarea {
     background: #DAA520;
     color: #fff;
 }
+
+.logo-img {
+	width: 35rem;
+	height: 14rem;
+}
+
+.logo {
+	text-align: center;
+}
+
 @media only screen and (max-width: 990px){
     .our-team{ margin-bottom: 30px; }
 }
@@ -3017,6 +3027,11 @@ input, select, textarea {
 		.founder img{
 			display: block;
 			width: 50%;
+		}
+
+		.logo-img {
+			width: 13rem;
+			height: 6rem;
 		}
 
 	}
